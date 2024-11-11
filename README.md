@@ -141,7 +141,7 @@
 
 ## 👨‍🏫 <a name="주요-기능"/>주요 기능
 
-|(![image](https://github.com/user-attachments/assets/31c20b48-9c9e-4894-b560-de0630da47d2)|![image](https://github.com/user-attachments/assets/553dcfc9-d308-4e3d-a0a3-60dd602900c4)|![image](https://github.com/user-attachments/assets/0e1908e3-88e1-4f30-baf9-bb6ec3abb8ec)|
+|![image](https://github.com/user-attachments/assets/31c20b48-9c9e-4894-b560-de0630da47d2)|![image](https://github.com/user-attachments/assets/553dcfc9-d308-4e3d-a0a3-60dd602900c4)|![image](https://github.com/user-attachments/assets/0e1908e3-88e1-4f30-baf9-bb6ec3abb8ec)|
 |:---:|:---:|:---:|
 |**랜딩 페이지**|**팀 페이지**|**할 일 페이지**|
 
